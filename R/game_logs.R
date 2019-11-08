@@ -98,7 +98,7 @@
       `Accept` = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
       `Sec-Fetch-Site` = 'cross-site',
       `Sec-Fetch-Mode` = 'navigate',
-      `Referer` = 'https://downwiththechinazis.com',
+      `Referer` = 'https://stats.nba.com/',
       `Accept-Encoding` = 'gzip, deflate, br',
       `Accept-Language` = 'en-US,en;q=0.9'
     )
